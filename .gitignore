@@ -10,3 +10,9 @@
 *.lai
 *.la
 *.a
+
+config.log
+config.status
+
+src/.deps
+src/jikes
