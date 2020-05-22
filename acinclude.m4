@@ -8,7 +8,6 @@ dnl For lots of handy autoconf C++ macros, go to
 dnl http://research.cys.de/autoconf-archive/
 
 builtin(include,src/m4/ac_cxx_bool.m4)
-builtin(include,src/m4/ac_cxx_exceptions.m4)
 builtin(include,src/m4/ac_cxx_namespaces.m4)
 builtin(include,src/m4/ac_cxx_have_std.m4)
 builtin(include,src/m4/acx_check_pathname_style.m4)
